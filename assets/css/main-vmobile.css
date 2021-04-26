@@ -24499,3 +24499,14 @@ li.liveStreamActiveVideos .liveStreamingVideo .underThumb {
 .socialIconsWrapper {
     height: 72px;
 }
+.ads-box-1 {
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.box-ad {
+    width: 33%;
+    padding: 0 5px;
+}
