@@ -2433,7 +2433,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     .userBadges .flag.translator-icon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png)
     }
 }
 
@@ -2648,7 +2648,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     #mobileHeader nav button#mobileNavigation i {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -2691,7 +2691,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     #mobileHeader nav button#mobileNavigation.active i {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -2741,7 +2741,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     #mobileHeader nav button#openSearch i {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3024,7 +3024,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     div.bottomNav a .premiumStar {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3312,7 +3312,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.pornstarNavigation i.videosIcon,
     div.menuSection div.videosNavigation i.communityVideosIcon,
     div.menuSection div.videosNavigation i.videosIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3422,7 +3422,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.pornstarNavigation i.playlistsIcon,
     div.menuSection div.videosNavigation i.myPlaylistIcon,
     div.menuSection div.videosNavigation i.playlistsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3496,7 +3496,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.membmerSearchIcon,
     div.menuSection div.pornstarNavigation i.membmerSearchIcon,
     div.menuSection div.videosNavigation i.membmerSearchIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3570,7 +3570,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.topMemeberIcon,
     div.menuSection div.pornstarNavigation i.topMemeberIcon,
     div.menuSection div.videosNavigation i.topMemeberIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3644,7 +3644,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.channelsIcon,
     div.menuSection div.pornstarNavigation i.channelsIcon,
     div.menuSection div.videosNavigation i.channelsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3718,7 +3718,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.categoriesIcon,
     div.menuSection div.pornstarNavigation i.categoriesIcon,
     div.menuSection div.videosNavigation i.categoriesIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3792,7 +3792,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.photosIcon,
     div.menuSection div.pornstarNavigation i.photosIcon,
     div.menuSection div.videosNavigation i.photosIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3866,7 +3866,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.gifIcon,
     div.menuSection div.pornstarNavigation i.gifIcon,
     div.menuSection div.videosNavigation i.gifIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -3940,7 +3940,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.pornstarsIcon,
     div.menuSection div.pornstarNavigation i.pornstarsIcon,
     div.menuSection div.videosNavigation i.pornstarsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4014,7 +4014,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.pornstarsIcon.gayIcon,
     div.menuSection div.pornstarNavigation i.pornstarsIcon.gayIcon,
     div.menuSection div.videosNavigation i.pornstarsIcon.gayIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4088,7 +4088,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.uploadIcon,
     div.menuSection div.pornstarNavigation i.uploadIcon,
     div.menuSection div.videosNavigation i.uploadIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4162,7 +4162,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.contestsIcon,
     div.menuSection div.pornstarNavigation i.contestsIcon,
     div.menuSection div.videosNavigation i.contestsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4236,7 +4236,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.communityFeedIcon,
     div.menuSection div.pornstarNavigation i.communityFeedIcon,
     div.menuSection div.videosNavigation i.communityFeedIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4310,7 +4310,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.blogIcon,
     div.menuSection div.pornstarNavigation i.blogIcon,
     div.menuSection div.videosNavigation i.blogIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4384,7 +4384,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.contestIcon,
     div.menuSection div.pornstarNavigation i.contestIcon,
     div.menuSection div.videosNavigation i.contestIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4458,7 +4458,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.appIcon,
     div.menuSection div.pornstarNavigation i.appIcon,
     div.menuSection div.videosNavigation i.appIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4532,7 +4532,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.moreIcon,
     div.menuSection div.pornstarNavigation i.moreIcon,
     div.menuSection div.videosNavigation i.moreIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4606,7 +4606,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.languageIcon,
     div.menuSection div.pornstarNavigation i.languageIcon,
     div.menuSection div.videosNavigation i.languageIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4680,7 +4680,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.sitemapIcon,
     div.menuSection div.pornstarNavigation i.sitemapIcon,
     div.menuSection div.videosNavigation i.sitemapIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4754,7 +4754,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.supportIcon,
     div.menuSection div.pornstarNavigation i.supportIcon,
     div.menuSection div.videosNavigation i.supportIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4828,7 +4828,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.deskTopIcon,
     div.menuSection div.pornstarNavigation i.deskTopIcon,
     div.menuSection div.videosNavigation i.deskTopIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4902,7 +4902,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.upgradePremiumIcon,
     div.menuSection div.pornstarNavigation i.upgradePremiumIcon,
     div.menuSection div.videosNavigation i.upgradePremiumIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -4976,7 +4976,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.trIcon,
     div.menuSection div.pornstarNavigation i.trIcon,
     div.menuSection div.videosNavigation i.trIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5050,7 +5050,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.htIcon,
     div.menuSection div.pornstarNavigation i.htIcon,
     div.menuSection div.videosNavigation i.htIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5124,7 +5124,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.mvIcon,
     div.menuSection div.pornstarNavigation i.mvIcon,
     div.menuSection div.videosNavigation i.mvIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5198,7 +5198,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.newIcon,
     div.menuSection div.pornstarNavigation i.newIcon,
     div.menuSection div.videosNavigation i.newIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5272,7 +5272,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.recoIcon,
     div.menuSection div.pornstarNavigation i.recoIcon,
     div.menuSection div.videosNavigation i.recoIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5346,7 +5346,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.premiumIcon,
     div.menuSection div.pornstarNavigation i.premiumIcon,
     div.menuSection div.videosNavigation i.premiumIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5420,7 +5420,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.dvdsIcon,
     div.menuSection div.pornstarNavigation i.dvdsIcon,
     div.menuSection div.videosNavigation i.dvdsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5494,7 +5494,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.liveSexIcon,
     div.menuSection div.pornstarNavigation i.liveSexIcon,
     div.menuSection div.videosNavigation i.liveSexIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5568,7 +5568,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.giftIcon,
     div.menuSection div.pornstarNavigation i.giftIcon,
     div.menuSection div.videosNavigation i.giftIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5642,7 +5642,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.feedIcon,
     div.menuSection div.pornstarNavigation i.feedIcon,
     div.menuSection div.videosNavigation i.feedIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5716,7 +5716,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.profileIcon,
     div.menuSection div.pornstarNavigation i.profileIcon,
     div.menuSection div.videosNavigation i.profileIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5790,7 +5790,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.messageIcon,
     div.menuSection div.pornstarNavigation i.messageIcon,
     div.menuSection div.videosNavigation i.messageIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5864,7 +5864,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.friendsIcon,
     div.menuSection div.pornstarNavigation i.friendsIcon,
     div.menuSection div.videosNavigation i.friendsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -5938,7 +5938,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.subscriptionIcon,
     div.menuSection div.pornstarNavigation i.subscriptionIcon,
     div.menuSection div.videosNavigation i.subscriptionIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6012,7 +6012,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.myVidIcon,
     div.menuSection div.pornstarNavigation i.myVidIcon,
     div.menuSection div.videosNavigation i.myVidIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6086,7 +6086,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.myPhotoIcon,
     div.menuSection div.pornstarNavigation i.myPhotoIcon,
     div.menuSection div.videosNavigation i.myPhotoIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6160,7 +6160,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.myFavoriteIcon,
     div.menuSection div.pornstarNavigation i.myFavoriteIcon,
     div.menuSection div.videosNavigation i.myFavoriteIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6234,7 +6234,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.myAchievementsIcon,
     div.menuSection div.pornstarNavigation i.myAchievementsIcon,
     div.menuSection div.videosNavigation i.myAchievementsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6308,7 +6308,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.amateurIcon,
     div.menuSection div.pornstarNavigation i.amateurIcon,
     div.menuSection div.videosNavigation i.amateurIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6382,7 +6382,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.mySettingsIcon,
     div.menuSection div.pornstarNavigation i.mySettingsIcon,
     div.menuSection div.videosNavigation i.mySettingsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6456,7 +6456,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.meetFuckIcon,
     div.menuSection div.pornstarNavigation i.meetFuckIcon,
     div.menuSection div.videosNavigation i.meetFuckIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6530,7 +6530,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.selectIcon,
     div.menuSection div.pornstarNavigation i.selectIcon,
     div.menuSection div.videosNavigation i.selectIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6604,7 +6604,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.referrals,
     div.menuSection div.pornstarNavigation i.referrals,
     div.menuSection div.videosNavigation i.referrals {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6678,7 +6678,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.sexualWellnessIcon,
     div.menuSection div.pornstarNavigation i.sexualWellnessIcon,
     div.menuSection div.videosNavigation i.sexualWellnessIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6752,7 +6752,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.shopIcon,
     div.menuSection div.pornstarNavigation i.shopIcon,
     div.menuSection div.videosNavigation i.shopIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6826,7 +6826,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.modelHubIcon,
     div.menuSection div.pornstarNavigation i.modelHubIcon,
     div.menuSection div.videosNavigation i.modelHubIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6900,7 +6900,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.insightsBlogIcon,
     div.menuSection div.pornstarNavigation i.insightsBlogIcon,
     div.menuSection div.videosNavigation i.insightsBlogIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -6974,7 +6974,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.faqIcon,
     div.menuSection div.pornstarNavigation i.faqIcon,
     div.menuSection div.videosNavigation i.faqIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7048,7 +7048,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.forumIcon,
     div.menuSection div.pornstarNavigation i.forumIcon,
     div.menuSection div.videosNavigation i.forumIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7122,7 +7122,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.trustIcon,
     div.menuSection div.pornstarNavigation i.trustIcon,
     div.menuSection div.videosNavigation i.trustIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7196,7 +7196,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.pornstarsLookAlike,
     div.menuSection div.pornstarNavigation i.pornstarsLookAlike,
     div.menuSection div.videosNavigation i.pornstarsLookAlike {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7270,7 +7270,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.fanClubMemberships,
     div.menuSection div.pornstarNavigation i.fanClubMemberships,
     div.menuSection div.videosNavigation i.fanClubMemberships {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7344,7 +7344,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation i.myOrdersIcon,
     div.menuSection div.pornstarNavigation i.myOrdersIcon,
     div.menuSection div.videosNavigation i.myOrdersIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7516,7 +7516,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.pornstarNavigation.active i.videosIcon,
     div.menuSection div.videosNavigation.active i.communityVideosIcon,
     div.menuSection div.videosNavigation.active i.videosIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7626,7 +7626,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.pornstarNavigation.active i.playlistsIcon,
     div.menuSection div.videosNavigation.active i.myPlaylistIcon,
     div.menuSection div.videosNavigation.active i.playlistsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7700,7 +7700,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.membmerSearchIcon,
     div.menuSection div.pornstarNavigation.active i.membmerSearchIcon,
     div.menuSection div.videosNavigation.active i.membmerSearchIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7774,7 +7774,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.topMemeberIcon,
     div.menuSection div.pornstarNavigation.active i.topMemeberIcon,
     div.menuSection div.videosNavigation.active i.topMemeberIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7848,7 +7848,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.channelsIcon,
     div.menuSection div.pornstarNavigation.active i.channelsIcon,
     div.menuSection div.videosNavigation.active i.channelsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7922,7 +7922,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.categoriesIcon,
     div.menuSection div.pornstarNavigation.active i.categoriesIcon,
     div.menuSection div.videosNavigation.active i.categoriesIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -7996,7 +7996,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.photosIcon,
     div.menuSection div.pornstarNavigation.active i.photosIcon,
     div.menuSection div.videosNavigation.active i.photosIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8070,7 +8070,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.gifIcon,
     div.menuSection div.pornstarNavigation.active i.gifIcon,
     div.menuSection div.videosNavigation.active i.gifIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8144,7 +8144,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.pornstarsIcon,
     div.menuSection div.pornstarNavigation.active i.pornstarsIcon,
     div.menuSection div.videosNavigation.active i.pornstarsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8218,7 +8218,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.pornstarsIcon.gayIcon,
     div.menuSection div.pornstarNavigation.active i.pornstarsIcon.gayIcon,
     div.menuSection div.videosNavigation.active i.pornstarsIcon.gayIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8292,7 +8292,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.uploadIcon,
     div.menuSection div.pornstarNavigation.active i.uploadIcon,
     div.menuSection div.videosNavigation.active i.uploadIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8366,7 +8366,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.communityFeedIcon,
     div.menuSection div.pornstarNavigation.active i.communityFeedIcon,
     div.menuSection div.videosNavigation.active i.communityFeedIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8440,7 +8440,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.blogIcon,
     div.menuSection div.pornstarNavigation.active i.blogIcon,
     div.menuSection div.videosNavigation.active i.blogIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8514,7 +8514,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.contestsIcon,
     div.menuSection div.pornstarNavigation.active i.contestsIcon,
     div.menuSection div.videosNavigation.active i.contestsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8588,7 +8588,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.appIcon,
     div.menuSection div.pornstarNavigation.active i.appIcon,
     div.menuSection div.videosNavigation.active i.appIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8662,7 +8662,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.moreIcon,
     div.menuSection div.pornstarNavigation.active i.moreIcon,
     div.menuSection div.videosNavigation.active i.moreIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8736,7 +8736,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.languageIcon,
     div.menuSection div.pornstarNavigation.active i.languageIcon,
     div.menuSection div.videosNavigation.active i.languageIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8810,7 +8810,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.sitemapIcon,
     div.menuSection div.pornstarNavigation.active i.sitemapIcon,
     div.menuSection div.videosNavigation.active i.sitemapIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8884,7 +8884,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.supportIcon,
     div.menuSection div.pornstarNavigation.active i.supportIcon,
     div.menuSection div.videosNavigation.active i.supportIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -8958,7 +8958,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.trIcon,
     div.menuSection div.pornstarNavigation.active i.trIcon,
     div.menuSection div.videosNavigation.active i.trIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9032,7 +9032,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.htIcon,
     div.menuSection div.pornstarNavigation.active i.htIcon,
     div.menuSection div.videosNavigation.active i.htIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9106,7 +9106,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.mvIcon,
     div.menuSection div.pornstarNavigation.active i.mvIcon,
     div.menuSection div.videosNavigation.active i.mvIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9180,7 +9180,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.newIcon,
     div.menuSection div.pornstarNavigation.active i.newIcon,
     div.menuSection div.videosNavigation.active i.newIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9254,7 +9254,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.recoIcon,
     div.menuSection div.pornstarNavigation.active i.recoIcon,
     div.menuSection div.videosNavigation.active i.recoIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9328,7 +9328,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.premiumIcon,
     div.menuSection div.pornstarNavigation.active i.premiumIcon,
     div.menuSection div.videosNavigation.active i.premiumIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9402,7 +9402,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.dvdsIcon,
     div.menuSection div.pornstarNavigation.active i.dvdsIcon,
     div.menuSection div.videosNavigation.active i.dvdsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9476,7 +9476,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.liveSexIcon,
     div.menuSection div.pornstarNavigation.active i.liveSexIcon,
     div.menuSection div.videosNavigation.active i.liveSexIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9550,7 +9550,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.giftIcon,
     div.menuSection div.pornstarNavigation.active i.giftIcon,
     div.menuSection div.videosNavigation.active i.giftIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9624,7 +9624,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.feedIcon,
     div.menuSection div.pornstarNavigation.active i.feedIcon,
     div.menuSection div.videosNavigation.active i.feedIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9698,7 +9698,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.profileIcon,
     div.menuSection div.pornstarNavigation.active i.profileIcon,
     div.menuSection div.videosNavigation.active i.profileIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9772,7 +9772,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.messageIcon,
     div.menuSection div.pornstarNavigation.active i.messageIcon,
     div.menuSection div.videosNavigation.active i.messageIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9846,7 +9846,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.friendsIcon,
     div.menuSection div.pornstarNavigation.active i.friendsIcon,
     div.menuSection div.videosNavigation.active i.friendsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9920,7 +9920,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.subscriptionIcon,
     div.menuSection div.pornstarNavigation.active i.subscriptionIcon,
     div.menuSection div.videosNavigation.active i.subscriptionIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -9994,7 +9994,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.myVidIcon,
     div.menuSection div.pornstarNavigation.active i.myVidIcon,
     div.menuSection div.videosNavigation.active i.myVidIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10068,7 +10068,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.myPhotoIcon,
     div.menuSection div.pornstarNavigation.active i.myPhotoIcon,
     div.menuSection div.videosNavigation.active i.myPhotoIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10142,7 +10142,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.myFavoriteIcon,
     div.menuSection div.pornstarNavigation.active i.myFavoriteIcon,
     div.menuSection div.videosNavigation.active i.myFavoriteIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10216,7 +10216,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.myAchievementsIcon,
     div.menuSection div.pornstarNavigation.active i.myAchievementsIcon,
     div.menuSection div.videosNavigation.active i.myAchievementsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10290,7 +10290,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.amateurIcon,
     div.menuSection div.pornstarNavigation.active i.amateurIcon,
     div.menuSection div.videosNavigation.active i.amateurIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10364,7 +10364,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.mySettingsIcon,
     div.menuSection div.pornstarNavigation.active i.mySettingsIcon,
     div.menuSection div.videosNavigation.active i.mySettingsIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10438,7 +10438,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.referrals,
     div.menuSection div.pornstarNavigation.active i.referrals,
     div.menuSection div.videosNavigation.active i.referrals {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10512,7 +10512,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.sexualWellnessIcon,
     div.menuSection div.pornstarNavigation.active i.sexualWellnessIcon,
     div.menuSection div.videosNavigation.active i.sexualWellnessIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10586,7 +10586,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.insightsBlogIcon,
     div.menuSection div.pornstarNavigation.active i.insightsBlogIcon,
     div.menuSection div.videosNavigation.active i.insightsBlogIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10660,7 +10660,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.faqIcon,
     div.menuSection div.pornstarNavigation.active i.faqIcon,
     div.menuSection div.videosNavigation.active i.faqIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10734,7 +10734,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.forumIcon,
     div.menuSection div.pornstarNavigation.active i.forumIcon,
     div.menuSection div.videosNavigation.active i.forumIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10808,7 +10808,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.trustIcon,
     div.menuSection div.pornstarNavigation.active i.trustIcon,
     div.menuSection div.videosNavigation.active i.trustIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10882,7 +10882,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.pornstarsLookAlike,
     div.menuSection div.pornstarNavigation.active i.pornstarsLookAlike,
     div.menuSection div.videosNavigation.active i.pornstarsLookAlike {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -10956,7 +10956,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.active i.fanClubMemberships,
     div.menuSection div.pornstarNavigation.active i.fanClubMemberships,
     div.menuSection div.videosNavigation.active i.fanClubMemberships {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -11055,7 +11055,7 @@ screen and (min-resolution:2dppx) {
     div.menuSection div.contestsNavigation.orangeLink i.giftIcon,
     div.menuSection div.pornstarNavigation.orangeLink i.giftIcon,
     div.menuSection div.videosNavigation.orangeLink i.giftIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -14112,7 +14112,7 @@ screen and (min-resolution:2dppx) {
 
     .moreFiltersWrapper .mainFilterTrigger i,
     .moreFiltersWrapper .moreFiltersTrigger i {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16348,7 +16348,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer ul>li>a>span.videos {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16387,7 +16387,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer ul>li>a>span.categories {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16426,7 +16426,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer ul>li>a>span.gifs {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16465,7 +16465,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer ul>li>a>span.pornstars {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16504,7 +16504,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer ul>li>a>span.pornstars.gayIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16543,7 +16543,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer ul>li>a>span.gay {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16582,7 +16582,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer ul>li>a>span.straight {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16715,7 +16715,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer nav .linkGroup>li .title:after {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16872,7 +16872,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer nav .platformChange i.mobileLiteIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16912,7 +16912,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer nav .platformChange i.tabletIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -16952,7 +16952,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer nav .platformChange i.desktopIcon {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -17077,7 +17077,7 @@ screen and (-o-min-device-pixel-ratio:200/100),
 screen and (min-device-pixel-ratio:2),
 screen and (min-resolution:2dppx) {
     footer .logos .asacp {
-        background-image: url(../../images/vmobile/sprites/sprite-common@2x.png?cache=2021042003)
+        background-image: url(./../images/sprite-common@2x.png);
     }
 }
 
@@ -24492,4 +24492,10 @@ li.liveStreamActiveVideos .liveStreamingVideo .underThumb {
 #mobileContainer.notPremium .showingCounter {
     font-size: 12.8px;
     padding-top: 0
+}
+.footerThumbs {
+    height: 72px;
+}
+.socialIconsWrapper {
+    height: 72px;
 }
