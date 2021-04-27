@@ -131,7 +131,6 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 10px 0 10px 30px;
-    font-size: 15px;
     font-weight: 400;
     color: #555555;
     white-space: nowrap;
@@ -146,15 +145,7 @@ body {
   
   .navbar a:hover, .navbar .active, .navbar li:hover > a {
     color: #fc5ae7;
-  }
-  
-  .navbar .getstarted {
-    background: #fc5ae7;
-    padding: 8px 25px;
-    margin-left: 30px;
-    border-radius: 50px;
-    color: #fff;
-  }
+  }  
   
   .navbar .getstarted:hover {
     color: #fff;
@@ -183,11 +174,11 @@ body {
   
   .navbar .dropdown ul a {
     padding: 10px 20px;
-    font-size: 14px;
   }
   
   .navbar .dropdown ul a i {
-    font-size: 12px;
+    font-size: 10px;
+    font-weight: 700;
   }
   
   .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {

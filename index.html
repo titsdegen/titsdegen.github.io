@@ -39,6 +39,10 @@
 <style>
     #header {
         background-color: #1b1b1b;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        text-transform: uppercase;
     }
     body {
         background-color: #000;
@@ -55,6 +59,26 @@
         margin: 0 auto;
         margin-top: 30px;
     }
+    .navbar {
+        width: 100%;
+        justify-content: space-between;
+    }
+    .navbar .getstarted {
+    background: #fc5ae7;
+    padding: 8px 25px;
+    margin-left: 30px;
+    border-radius: 5px;
+    color: #000;
+    font-weight: 700;
+    }
+    .mr-3 {
+        margin-left: 0 !important;
+        margin-right: 6px;  
+    }
+    .navbar a {
+        font-weight: 700;
+        color: #fff;
+    }
 </style>
 <body>
 
@@ -62,8 +86,8 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
       <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="getstarted scrollto" href="#token">Get Started</a></li>
+          <img src="./assets/images/titscoin-logo-degen_200x.png" alt="logo">
+        <ul>             
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#token">Token</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
@@ -71,14 +95,15 @@
           <li><a class="nav-link scrollto " href="#faq">FAQ</a></li>
           <li class="dropdown"><a href="#"><span>Links</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="https://app.uniswap.org/#/swap?outputCurrency=0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3" target="_blank">Uniswap</a></li>
-	      <li><a href="https://t.me/DogelonMars" target="_blank">Telegram</a></li>
-	      <li><a href="https://twitter.com/DogelonMars" target="_blank">Twitter</a></li>
-              <li><a href="https://coinmarketcap.com/currencies/dogelon/" target="_blank">CoinMarketCap</a></li>
-	      <li><a href="https://coingecko.com/en/coins/dogelon-mars" target="_blank">CoinGecko</a></li>
-              <li><a href="https://etherscan.io/token/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3" target="_blank">Etherscan</a></li>
+                <li><a href="https://app.uniswap.org/#/swap?outputCurrency=0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3" target="_blank">Uniswap</a></li>
+                <li><a href="https://t.me/DogelonMars" target="_blank">Telegram</a></li>
+                <li><a href="https://twitter.com/DogelonMars" target="_blank">Twitter</a></li>
+                    <li><a href="https://coinmarketcap.com/currencies/dogelon/" target="_blank">CoinMarketCap</a></li>
+                <li><a href="https://coingecko.com/en/coins/dogelon-mars" target="_blank">CoinGecko</a></li>
+                <li><a href="https://etherscan.io/token/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3" target="_blank">Etherscan</a></li>
             </ul>
-          </li>
+          </li>          
+          <li><a class="getstarted scrollto" href="#token"><i class="bi bi-star-fill mr-3"></i>Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
