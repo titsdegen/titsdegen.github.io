@@ -63,6 +63,13 @@
         width: 100%;
         justify-content: space-between;
     }
+    .navbar img {
+        width: 120px;
+    }
+    .navbar a {
+        color: #fff;
+        font-weight: 700;
+    }
     .navbar .getstarted {
     background: #fc5ae7;
     padding: 8px 25px;
@@ -70,15 +77,16 @@
     border-radius: 5px;
     color: #000;
     font-weight: 700;
+    font-size: 12px;
+    text-transform: none;
     }
     .mr-3 {
         margin-left: 0 !important;
         margin-right: 6px;  
     }
-    .navbar a {
-        font-weight: 700;
+    .navbar-mobile a {
         color: #fff;
-    }
+    }    
 </style>
 <body>
 
@@ -86,24 +94,23 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
       <nav id="navbar" class="navbar">
-          <img src="./assets/images/titscoin-logo-degen_200x.png" alt="logo">
-        <ul>             
+          <img class="logo-header" src="./assets/images/tits_logo_degen_transparent_150x.png" alt="logo">
+        <ul class="inner-box">             
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#token">Token</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="https://app.uniswap.org/#/swap?outputCurrency=0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3" target="_blank">Uniswap</a></li>
+          <li><a class="nav-link scrollto" href="https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0xfe7e350009a1f3915352022b1bfc2087d7b1d1cd" target="_blank">Uniswap</a></li>
           <li><a class="nav-link scrollto " href="#faq">FAQ</a></li>
-          <li class="dropdown"><a href="#"><span>Links</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Links</span> <i class="bi bi-caret-down-fill"></i></a>
             <ul>
-                <li><a href="https://app.uniswap.org/#/swap?outputCurrency=0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3" target="_blank">Uniswap</a></li>
-                <li><a href="https://t.me/DogelonMars" target="_blank">Telegram</a></li>
-                <li><a href="https://twitter.com/DogelonMars" target="_blank">Twitter</a></li>
-                    <li><a href="https://coinmarketcap.com/currencies/dogelon/" target="_blank">CoinMarketCap</a></li>
-                <li><a href="https://coingecko.com/en/coins/dogelon-mars" target="_blank">CoinGecko</a></li>
-                <li><a href="https://etherscan.io/token/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3" target="_blank">Etherscan</a></li>
+                <li><a href="https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0xfe7e350009a1f3915352022b1bfc2087d7b1d1cd" target="_blank">PancakeSwap</a></li>
+                <li><a href="https://t.me/TitsToTheMoon" target="_blank">Telegram</a></li>
+                <li><a href="https://twitter.com/titsfortits2" target="_blank">Twitter</a></li>
+                <li><a href="https://instagram.com/titscoin" target="_blank">Instagram</a></li>
+                <li><a href="https://www.facebook.com/TitsCoin/" target="_blank">Facebook</a></li>
             </ul>
           </li>          
-          <li><a class="getstarted scrollto" href="#token"><i class="bi bi-star-fill mr-3"></i>Get Started</a></li>
+          <li><a class="getstarted" href="https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0xfe7e350009a1f3915352022b1bfc2087d7b1d1cd"><i class="bi bi-star-fill mr-3"></i>BUY $TITS</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -135,43 +142,31 @@
     <section id="clients" class="clients clients">
       <div class="container">
 
-        <div class="row">
+        <div class="row py-3 clients-row">
 
-          <div class="col-lg-2 col-md-4 col-6">
-	    <a id="link_uniswap" href="https://app.uniswap.org/#/swap?outputCurrency=0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3" target="_blank">
-              <img src="./assets/images/client-1.png" class="img-fluid" alt="" data-aos="zoom-in">
+          <div class="col-lg-4 col-md-4 col-4">
+            <a data-aos="zoom-in" id="link_uniswap" class="hero-link" href="https://app.uniswap.org/#/swap?outputCurrency=0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3" target="_blank">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                <path fill="currentColor" d="M99.4,65.3c0-0.6,0-1.2,0-1.7c0-0.6,0-1.1,0-1.7c0-3.2,0.1-6.5-1.4-9.8c-3.5-7.7-10.6-14.3-20-18.8l3.8-18
+                    c0.9-3.1,0.2-9.8-9.2-14c-3.4-1.5-6.5-1.6-9.4-0.3c-5.2,2.3-7.5,8.4-7.8,9.5c-1.4,3.2-1.3,11.9-1,16.9c-2.8-0.2-5.7-0.2-8.5,0
+                    c0.2-5,0.4-13.7-1-16.9c-0.4-1.1-2.7-7.2-7.8-9.5c-2.9-1.3-6.1-1.2-9.4,0.3c-9.5,4.2-10.2,10.9-9.2,14l3.8,18
+                    C12.6,37.7,5.6,44.4,2,52.1c-1.5,3.3-1.5,6.6-1.4,9.8c0,0.6,0,1.1,0,1.7c0,0.6,0,1.2,0,1.7C0.6,68.5,0.5,71.8,2,75
+                    c6.8,14.9,26.1,25,48,25c21.9,0,41.2-10,48-25C99.5,71.8,99.4,68.5,99.4,65.3z"/>
+                </svg>            
             </a>
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6">
-	    <a id="link_telegram" href="https://t.me/DogelonMars" target="_blank">
-            <img src="./assets/images/client-2.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
-		</a>
+          <div class="col-lg-4 col-md-4 col-4">	    
+            <a data-aos="zoom-in" id="link_telegram" class="hero-link" href="https://t.me/TitsToTheMoon" target="_blank">        
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="telegram" class="svg-inline--fa fa-telegram fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"></path></svg>
+            </a>
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6">
-	    <a id="link_twitter" href="https://twitter.com/DogelonMars" target="_blank">
-            <img src="./assets/images/client-3.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
-		</a>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-	    <a id="link_cmc" href="https://coinmarketcap.com/currencies/dogelon/" target="_blank">
-            <img src="./assets/images/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
-		</a>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-	    <a id="link_coingecko" href="https://coingecko.com/en/coins/dogelon-mars" target="_blank">
-            <img src="./assets/images/client-5.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-		</a>
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6">
-
-	    <a id="link_etherscan" href="https://etherscan.io/token/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3" target="_blank">
-            <img src="./assets/images/client-6.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
-		</a>
+          <div class="col-lg-4 col-md-4 col-4">
+            <a data-aos="zoom-in" id="link_telegram" class="hero-link" href="https://twitter.com/titsfortits2" target="_blank">                
+                <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" class="svg-inline--fa fa-twitter fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+            </a>
           </div>
 
         </div>
@@ -289,9 +284,9 @@ No, as I mentioned, it’s a “fair” universal currency. There was no presale
           <div class="col-lg-7">
             <p>
 	    
-The Uniswap link is here: <a href="https://app.uniswap.org/#/swap?outputCurrency=0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3">Uniswap</a>.<br/>
+The Uniswap link is here: <a href="https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0xfe7e350009a1f3915352022b1bfc2087d7b1d1cd">Uniswap</a>.<br/>
 
-The contract address is: <a href="https://etherscan.io/token/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3" target="_blank">0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3</a>.
+The contract address is: <a href="https://etherscan.io/token/0xfe7e350009a1f3915352022b1bfc2087d7b1d1cd" target="_blank">0xfe7e350009a1f3915352022b1bfc2087d7b1d1cd</a>.
 
 <br/>
 
